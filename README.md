@@ -1,3 +1,3 @@
 # hello-world
 repository 
-Hi All, am deepika , am learning JS with GitHub. 
+Hi All, I am deepika , I am learning JS with GitHub. 
